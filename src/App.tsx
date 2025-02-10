@@ -6,7 +6,7 @@ import { AreYouSure } from './Components/AreyouSure'
 import { ValentinePhotoCollage } from './Components/ValentinePhotoCollage'
 import { FinalAsk } from './Components/FinalAsk'
 import { BeValentine } from './Components/BeValentine'
-
+import './photocollage.css';
 
 
 function App() {
