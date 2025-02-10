@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import hurt from '../../public/gifs/hurt1.gif'
 
 export const TryAgain = () => {
   const navigate = useNavigate();
@@ -9,6 +10,9 @@ export const TryAgain = () => {
         <h1 className="text-4xl pb-2">
           Okay. Ouch. I didn't know you felt like that. Are you sure? 
         </h1>
+        <div className="w-[300px] h-[200px] ">
+            <img src={hurt} alt="" className="w-full h-full"/>
+        </div>
         <h2 className="text-3xl pt-2">Try Again</h2>
         <h2 className="text-3xl pt-2">Will you be my valentine?</h2>
       </div>

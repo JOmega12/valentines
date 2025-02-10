@@ -1,11 +1,7 @@
 
-
-
-// type ValentineType = {
-//     ask: boolean | null
-// }
-
 import { useNavigate } from "react-router-dom";
+import boat1 from '../../public/gifs/cruise1.gif'
+import boat2 from '../../public/gifs/cruise2.gif'
 
 
 export const BeValentine = () => {
@@ -22,6 +18,8 @@ export const BeValentine = () => {
           <h2 className="text-3xl pt-2">Did I hurt you? </h2>
           <h2 className="text-3xl pt-2">I'm sorry, please say yes</h2>
           <h2 className="text-3xl pt-2">I bought us tickets to the cruise</h2>
+          <img src={boat1} alt="" />
+          <img src={boat2} alt="" />
           <h2 className="text-5xl pt-2 border border-amber-300 text- center p-2 mt-3 rounded-2xl pb-3">Will you be my valentine?</h2>
         </div>
         <div className="px-155 flex flex-row justify-between items-center gap-2 text-4xl py-10">
@@ -39,16 +37,5 @@ export const BeValentine = () => {
           </div>
         </div>
       </div>
-        // whole speech about valentine
-        // have asking question be yes or no 
-        // if no ask again
-        // if no x2 ask again but with different font
-        // if no x3 ask again but with stylistic choice for yes (add are you sure?)
-        // if no x4 ask again but with sassy attitude
-        // if no x5 ask again but with no "no" button 
-
-        // if yes, put things to do (if you can if short on time)
-            // if short on time
-            // add photos of us and tons of moving flowers
     )
 }

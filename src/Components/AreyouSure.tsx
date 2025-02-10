@@ -1,4 +1,5 @@
 import { useNavigate } from "react-router-dom";
+import shocked from '../../public/gifs/shocked1.gif'
 
 export const AreYouSure = () => {
   const navigate = useNavigate();
@@ -7,6 +8,11 @@ export const AreYouSure = () => {
     <div className="flex flex-col pt-20">
       <div className="flex flex-col justify-center items-center text-center">
         <h1 className="text-4xl pb-2">WOW. I'll give you another chance. Im sure it was a mistake</h1>
+        <div className="w-[200px] h-[200px] ">
+            <img src={shocked} alt="" className="w-full h-full"/>
+        </div>
+
+
         <h2 className="text-3xl pt-2">Try Again</h2>
         <h2 className="text-3xl pt-2">Will you be my valentine?</h2>
       </div>
