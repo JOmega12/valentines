@@ -1,4 +1,4 @@
-import { createContext, ReactNode, useContext } from "react";
+import { createContext, ReactNode, useContext, useState } from "react";
 
 
 
@@ -13,6 +13,11 @@ const ValentineContext = createContext({});
 
 export const ValentineContextProvider = ({children}: ValentinesProviderProps) => {
 
+    const [valTime, setvalTime] = useState(true);
+    const [no1, setNo1] = useState(true);
+    const [no2, setNo2] = useState(true);
+    const [no3, setNo3] = useState(true);
+    const [no4, setNo4] = useState(true);
 
     return(
         <ValentineContext.Provider 
