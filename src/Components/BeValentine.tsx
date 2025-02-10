@@ -8,6 +8,10 @@
 
 export const BeValentine = () => {
 
+    const onButtonClick = (bool: boolean) => {
+        setIsLogin(bool);
+      };
+      
     return(
         // whole speech about valentine
         // have asking question be yes or no 
