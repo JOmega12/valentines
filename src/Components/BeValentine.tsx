@@ -18,8 +18,14 @@ export const BeValentine = () => {
           <h2 className="text-3xl pt-2">Did I hurt you? </h2>
           <h2 className="text-3xl pt-2">I'm sorry, please say yes</h2>
           <h2 className="text-3xl pt-2">I bought us tickets to the cruise</h2>
-          <img src={boat1} alt="" />
-          <img src={boat2} alt="" />
+          <div className="flex flex-row gap-20">
+            <div className="h-[250px] w-[250px]">
+              <img src={boat1} alt="" className="w-full h-full"/>
+            </div>
+            <div className="h-[250px] w-[350px]">
+              <img src={boat2} alt="" className="w-full h-full"/>
+            </div>
+          </div>
           <h2 className="text-5xl pt-2 border border-amber-300 text- center p-2 mt-3 rounded-2xl pb-3">Will you be my valentine?</h2>
         </div>
         <div className="px-155 flex flex-row justify-between items-center gap-2 text-4xl py-10">

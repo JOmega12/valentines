@@ -151,3 +151,39 @@
     top: 60%;
     animation-delay: -0.4s;
   }
+
+
+
+
+  @keyframes slideInLeft {
+    0% {
+      transform: translateX(-50%);
+    }
+    /* 50% {
+      transform: translateX(0);
+    } */
+    100% {
+      transform: translateX(15%);
+    }
+  }
+  
+  @keyframes slideInRight {
+    0% {
+      transform: translateX(50%);
+    }
+    /* 50% {
+      transform: translateX(0);
+    } */
+    100% {
+      transform: translateX(-15%);
+    }
+  }
+  
+  .slide-in-left {
+    animation: slideInLeft 3.5s ease-in-out infinite;
+  }
+  
+  .slide-in-right {
+    animation: slideInRight 3.5s ease-in-out infinite;
+  }
+  

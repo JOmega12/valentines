@@ -8,7 +8,7 @@ export const ValentineDash = () => {
 
     const navigate = useNavigate();
     return(
-        <div className='flex flex-col pt-20'>
+        <div className='bg-[#E72650] flex flex-col pt-20'>
             <div className='flex flex-col justify-center items-center text-center'>
                 <h1 className='text-4xl pb-2'>Happy Valentines!</h1>
                 <p className='py-2 text-2xl'>I wanted to create something that you can interact with instead of just asking you in person.</p>

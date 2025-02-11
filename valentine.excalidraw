@@ -34,8 +34,8 @@
     },
     {
       "type": "text",
-      "version": 185,
-      "versionNonce": 1190674330,
+      "version": 186,
+      "versionNonce": 133632586,
       "isDeleted": false,
       "id": "G6_6YV78tfQcffHdDC0qs",
       "fillStyle": "solid",
@@ -55,7 +55,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392426,
+      "updated": 1739246671272,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -66,12 +66,12 @@
       "containerId": null,
       "originalText": "asdfasdfasdfkasjdfk;ljask;ldfjkljasd;lkfjak;lsdjfk;l",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 243,
-      "versionNonce": 1935712006,
+      "version": 244,
+      "versionNonce": 1685163862,
       "isDeleted": false,
       "id": "iqowQ1XwlDI-52aNSqCjm",
       "fillStyle": "solid",
@@ -91,7 +91,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392426,
+      "updated": 1739246671273,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -102,12 +102,12 @@
       "containerId": null,
       "originalText": "asdfasdfasdf",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 285,
-      "versionNonce": 1740717146,
+      "version": 286,
+      "versionNonce": 11680010,
       "isDeleted": false,
       "id": "BTZbZ0DVAu-DWHt8jCeOX",
       "fillStyle": "solid",
@@ -127,7 +127,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392427,
+      "updated": 1739246671276,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -138,12 +138,12 @@
       "containerId": null,
       "originalText": "Will you be my Valentine?",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 326,
-      "versionNonce": 1564659270,
+      "version": 327,
+      "versionNonce": 1165046934,
       "isDeleted": false,
       "id": "bYMDIe_Tp37ebkXZqVQib",
       "fillStyle": "solid",
@@ -168,7 +168,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392427,
+      "updated": 1739246671277,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -179,12 +179,12 @@
       "containerId": null,
       "originalText": "Yes",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 380,
-      "versionNonce": 667722010,
+      "version": 381,
+      "versionNonce": 1826260938,
       "isDeleted": false,
       "id": "wfiOX6ieb5JoUbuJTf2LM",
       "fillStyle": "solid",
@@ -209,7 +209,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392427,
+      "updated": 1739246671279,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -220,7 +220,7 @@
       "containerId": null,
       "originalText": "No",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -301,8 +301,8 @@
     },
     {
       "type": "text",
-      "version": 430,
-      "versionNonce": 162297030,
+      "version": 431,
+      "versionNonce": 1237987798,
       "isDeleted": false,
       "id": "OAdxAIeDhnrCqnHKKwJ8u",
       "fillStyle": "solid",
@@ -327,7 +327,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392427,
+      "updated": 1739246671279,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -338,12 +338,12 @@
       "containerId": null,
       "originalText": "No",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 421,
-      "versionNonce": 219587226,
+      "version": 422,
+      "versionNonce": 881524362,
       "isDeleted": false,
       "id": "iTNpg5y-7by_wbrN6t6T7",
       "fillStyle": "solid",
@@ -368,7 +368,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392427,
+      "updated": 1739246671280,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -379,12 +379,12 @@
       "containerId": null,
       "originalText": "Yes",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 284,
-      "versionNonce": 1863183366,
+      "version": 285,
+      "versionNonce": 1821476630,
       "isDeleted": false,
       "id": "EiLx7B96Yxhr72cP78pUX",
       "fillStyle": "solid",
@@ -404,7 +404,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392427,
+      "updated": 1739246671281,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -415,7 +415,7 @@
       "containerId": null,
       "originalText": "Are you sure? ",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -467,8 +467,8 @@
     },
     {
       "type": "text",
-      "version": 468,
-      "versionNonce": 1874754374,
+      "version": 469,
+      "versionNonce": 75406666,
       "isDeleted": false,
       "id": "k8f1GCC1jbT0lPK3QqCCD",
       "fillStyle": "solid",
@@ -493,7 +493,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392427,
+      "updated": 1739246671282,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -504,12 +504,12 @@
       "containerId": null,
       "originalText": "No",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 458,
-      "versionNonce": 1307460634,
+      "version": 459,
+      "versionNonce": 2117874774,
       "isDeleted": false,
       "id": "YKbDFzbDQBlIfDO5K7vgj",
       "fillStyle": "solid",
@@ -534,7 +534,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392427,
+      "updated": 1739246671283,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -545,12 +545,12 @@
       "containerId": null,
       "originalText": "Yes",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 368,
-      "versionNonce": 35332742,
+      "version": 369,
+      "versionNonce": 974152714,
       "isDeleted": false,
       "id": "y7lXtJU6BvSu-pnWIkrFP",
       "fillStyle": "solid",
@@ -570,7 +570,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392427,
+      "updated": 1739246671284,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -581,7 +581,7 @@
       "containerId": null,
       "originalText": "Try Again",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -619,8 +619,8 @@
     },
     {
       "type": "text",
-      "version": 497,
-      "versionNonce": 1222697414,
+      "version": 498,
+      "versionNonce": 2023700886,
       "isDeleted": false,
       "id": "LHtL101U7vMXDzMyZcZ4F",
       "fillStyle": "solid",
@@ -640,7 +640,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392427,
+      "updated": 1739246671285,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -651,12 +651,12 @@
       "containerId": null,
       "originalText": "Will you be my valentine?",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 370,
-      "versionNonce": 1533773210,
+      "version": 371,
+      "versionNonce": 1329287882,
       "isDeleted": false,
       "id": "FX2mi9jt70V5bJRN4fQ1i",
       "fillStyle": "solid",
@@ -676,7 +676,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392427,
+      "updated": 1739246671285,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -687,7 +687,7 @@
       "containerId": null,
       "originalText": "Try Again",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -881,8 +881,8 @@
     },
     {
       "type": "text",
-      "version": 18,
-      "versionNonce": 1353363334,
+      "version": 19,
+      "versionNonce": 1391433430,
       "isDeleted": false,
       "id": "okT1DCm1oN5FobfzUq8qY",
       "fillStyle": "solid",
@@ -902,7 +902,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392427,
+      "updated": 1739246671286,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -913,12 +913,12 @@
       "containerId": null,
       "originalText": "YAAAAAAYYYYYYYY",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 78,
-      "versionNonce": 1748923354,
+      "version": 79,
+      "versionNonce": 1184524682,
       "isDeleted": false,
       "id": "bEyreetk8zzMLOGLUwDiV",
       "fillStyle": "solid",
@@ -938,7 +938,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392427,
+      "updated": 1739246671287,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -949,12 +949,12 @@
       "containerId": null,
       "originalText": "Photo ",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 100,
-      "versionNonce": 402050758,
+      "version": 101,
+      "versionNonce": 1438796822,
       "isDeleted": false,
       "id": "rZD9Ys2G6nLF_P4gZSH6I",
       "fillStyle": "solid",
@@ -974,7 +974,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392428,
+      "updated": 1739246671287,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -985,12 +985,12 @@
       "containerId": null,
       "originalText": "Photo ",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 118,
-      "versionNonce": 582412442,
+      "version": 119,
+      "versionNonce": 392734794,
       "isDeleted": false,
       "id": "IfQHfiHb7oAVw9qv_X8bI",
       "fillStyle": "solid",
@@ -1010,7 +1010,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392428,
+      "updated": 1739246671287,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1021,12 +1021,12 @@
       "containerId": null,
       "originalText": "Photo ",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 170,
-      "versionNonce": 922551814,
+      "version": 171,
+      "versionNonce": 1863080278,
       "isDeleted": false,
       "id": "Wq3TIczCsDdAsej_mQk69",
       "fillStyle": "solid",
@@ -1046,7 +1046,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392428,
+      "updated": 1739246671288,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1057,12 +1057,12 @@
       "containerId": null,
       "originalText": "Photo ",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 106,
-      "versionNonce": 130205018,
+      "version": 107,
+      "versionNonce": 427888394,
       "isDeleted": false,
       "id": "G6RKvaG071r8qSmHvInjT",
       "fillStyle": "solid",
@@ -1082,7 +1082,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392428,
+      "updated": 1739246671289,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1093,7 +1093,7 @@
       "containerId": null,
       "originalText": "What should we do? (maybe project)",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -1183,8 +1183,8 @@
     },
     {
       "type": "text",
-      "version": 96,
-      "versionNonce": 411810950,
+      "version": 97,
+      "versionNonce": 102940310,
       "isDeleted": false,
       "id": "ieVl3SwF4y0BmJbrFndgg",
       "fillStyle": "solid",
@@ -1204,7 +1204,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392428,
+      "updated": 1739246671289,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1215,12 +1215,12 @@
       "containerId": null,
       "originalText": "Will you be my valentine ",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 175,
-      "versionNonce": 1417721562,
+      "version": 176,
+      "versionNonce": 1902026186,
       "isDeleted": false,
       "id": "pwkdRATIvLXV4G6NcPokG",
       "fillStyle": "solid",
@@ -1233,8 +1233,8 @@
       "y": 1192.9484630017466,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 81.76618661651369,
-      "height": 63.641249014256445,
+      "width": 81.76142883300781,
+      "height": 63.641249014256466,
       "seed": 1278543056,
       "groupIds": [],
       "frameId": null,
@@ -1245,7 +1245,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392428,
+      "updated": 1739246671292,
       "link": null,
       "locked": false,
       "fontSize": 50.91299921140517,
@@ -1256,12 +1256,12 @@
       "containerId": null,
       "originalText": "Yes",
       "lineHeight": 1.25,
-      "baseline": 53
+      "baseline": 44
     },
     {
       "type": "text",
-      "version": 229,
-      "versionNonce": 976108486,
+      "version": 230,
+      "versionNonce": 1337621462,
       "isDeleted": false,
       "id": "FSUZMl2FkR87uL8f51dv7",
       "fillStyle": "solid",
@@ -1274,8 +1274,8 @@
       "y": 1243.618046761303,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 13.913243197933747,
-      "height": 14.517171348534806,
+      "width": 13.908767700195312,
+      "height": 14.517171348534816,
       "seed": 1295521840,
       "groupIds": [],
       "frameId": null,
@@ -1286,7 +1286,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392428,
+      "updated": 1739246671293,
       "link": null,
       "locked": false,
       "fontSize": 11.613737078827853,
@@ -1297,7 +1297,7 @@
       "containerId": null,
       "originalText": "No",
       "lineHeight": 1.25,
-      "baseline": 12
+      "baseline": 10
     },
     {
       "type": "rectangle",
@@ -1335,8 +1335,8 @@
     },
     {
       "type": "text",
-      "version": 129,
-      "versionNonce": 1505678086,
+      "version": 130,
+      "versionNonce": 2082231434,
       "isDeleted": false,
       "id": "o-nCYMYMOmO-o_PBQZMxa",
       "fillStyle": "solid",
@@ -1356,7 +1356,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1739214392428,
+      "updated": 1739246671295,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1367,12 +1367,12 @@
       "containerId": null,
       "originalText": "Will you be my valentine ",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 326,
-      "versionNonce": 1150306394,
+      "version": 327,
+      "versionNonce": 568889622,
       "isDeleted": false,
       "id": "s9ePnXcSjpY9dhR4pcMbp",
       "fillStyle": "solid",
@@ -1385,7 +1385,7 @@
       "y": 1553.4567782653164,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 184.5517757408201,
+      "width": 184.54547119140625,
       "height": 143.64257405117482,
       "seed": 591217360,
       "groupIds": [],
@@ -1397,7 +1397,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1739214392428,
+      "updated": 1739246671307,
       "link": null,
       "locked": false,
       "fontSize": 114.91405924093985,
@@ -1408,7 +1408,7 @@
       "containerId": null,
       "originalText": "Yes",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 101
     },
     {
       "type": "arrow",
@@ -1565,6 +1565,71 @@
           -335.405541447878
         ]
       ]
+    },
+    {
+      "id": "4l2IFCy950Ki5rQXtvZye",
+      "type": "rectangle",
+      "x": 304.6063186472097,
+      "y": 1123.6733138308177,
+      "width": 295.37389768781304,
+      "height": 71.08181774559353,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1463534486,
+      "version": 37,
+      "versionNonce": 485027926,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1739246973562,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "x_yP8pg5cEJzY5M_JNTYq",
+      "type": "text",
+      "x": 332.9430053280411,
+      "y": 1148.647962977185,
+      "width": 242.81979370117188,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2125884810,
+      "version": 55,
+      "versionNonce": 300468106,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1739246987092,
+      "link": null,
+      "locked": false,
+      "text": "Click here to Start over",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Click here to Start over",
+      "lineHeight": 1.25
     }
   ],
   "appState": {

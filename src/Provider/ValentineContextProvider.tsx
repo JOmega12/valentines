@@ -1,21 +1,24 @@
-import { createContext, ReactNode, useContext } from "react";
+import { createContext, Dispatch, ReactNode, SetStateAction, useContext, useState } from "react";
 
+type valentineType ={
+    isValentine: boolean;
 
-
+}
 
 type ValentinesProviderProps = {
-    children: ReactNode;
-  };
+    isValentine: valentineType | null;
+    setIsValentine: Dispatch<SetStateAction <valentineType |null >>
 
+};
 
-const ValentineContext = createContext({});
+const ValentineContext = createContext<ValentinesProviderProps | undefined>(undefined);
 
+export const ValentineContextProvider = ({children}: {children: ReactNode}) => {
 
-export const ValentineContextProvider = ({children}: ValentinesProviderProps) => {
-
+    const [isValentine, setIsValentine] = useState<valentineType | null>(null);
     return(
         <ValentineContext.Provider 
-            value={{}}
+            value={{isValentine, setIsValentine}}
         >
             {children}
         </ValentineContext.Provider>
@@ -25,6 +28,9 @@ export const ValentineContextProvider = ({children}: ValentinesProviderProps) =>
 // eslint-disable-next-line react-refresh/only-export-components
 export const useValentine = () => {
     const context = useContext(ValentineContext);
+    if (!context) {
+        throw new Error("useValentine must be used within a ValentineContextProvider");
+    }
     return context
 }
 

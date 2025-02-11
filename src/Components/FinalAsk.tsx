@@ -1,5 +1,7 @@
 
 import { useNavigate } from "react-router-dom";
+import endGoal from '../../public/gifs/finally.gif'
+
 
 export const FinalAsk = () => {
     
@@ -13,6 +15,9 @@ export const FinalAsk = () => {
                 Final Ask.
             </h1>
             <h2 className="text-5xl pt-2 border border-amber-300 text- center p-2 mt-3 rounded-2xl pb-3">Will you be my valentine?</h2>
+            <div className="h-[200px] w-[300px] mt-6">
+                <img src={endGoal} alt="" className="h-full w-full"/>
+            </div>
             </div>
             <div className="px-155 flex flex-row justify-between items-center gap-2 text-4xl py-10">
             <div
