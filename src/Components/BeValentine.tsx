@@ -18,7 +18,7 @@ export const BeValentine = () => {
           <h2 className="text-3xl pt-2">Did I hurt you? </h2>
           <h2 className="text-3xl pt-2">I'm sorry, please say yes</h2>
           <h2 className="text-3xl pt-2">I bought us tickets to the cruise</h2>
-          <div className="flex flex-row gap-20">
+          <div className="flex flex-col md:flex-row gap-8 md:gap-20 justify-center items-center">
             <div className="h-[250px] w-[250px]">
               <img src={boat1} alt="" className="w-full h-full"/>
             </div>
@@ -28,7 +28,7 @@ export const BeValentine = () => {
           </div>
           <h2 className="text-5xl pt-2 border border-amber-300 text- center p-2 mt-3 rounded-2xl pb-3">Will you be my valentine?</h2>
         </div>
-        <div className="px-155 flex flex-row justify-between items-center gap-2 text-4xl py-10">
+        <div className="flex flex-col md:flex-row gap-4 text-2xl md:text-4xl py-6 text-center">
           <div
             className="hover:text-amber-300 hover:border hover:border-amber-300 rounded-lg p-2 hover:cursor-pointer text-center text-6xl"
             onClick={() => navigate("/acceptance")}
