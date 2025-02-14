@@ -19,7 +19,7 @@ export const FinalAsk = () => {
                 <img src={endGoal} alt="" className="h-full w-full"/>
             </div>
             </div>
-            <div className="flex flex-col md:flex-row gap-4 text-2xl md:text-4xl py-6 text-center">
+            <div className="flex flex-col md:flex-row gap-4 text-2xl md:text-4xl py-6 text-center justify-center items-center">
             <div
                 className="hover:text-amber-300 hover:border hover:border-amber-300 rounded-lg p-2 hover:cursor-pointer text-center text-6xl"
                 onClick={() => navigate("/acceptance")}

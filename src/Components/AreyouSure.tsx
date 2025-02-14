@@ -16,7 +16,7 @@ export const AreYouSure = () => {
         <h2 className="text-3xl pt-2">Try Again</h2>
         <h2 className="text-3xl pt-2">Will you be my valentine?</h2>
       </div>
-      <div className="flex flex-col md:flex-row gap-4 text-2xl md:text-4xl py-6 text-center">
+      <div className="flex flex-col md:flex-row gap-4 text-2xl md:text-4xl py-6 text-center justify-center items-center">
         <div
           className="hover:text-amber-300 hover:border hover:border-amber-300 rounded-lg p-2 hover:cursor-pointer"
           onClick={() => navigate("/acceptance")}
